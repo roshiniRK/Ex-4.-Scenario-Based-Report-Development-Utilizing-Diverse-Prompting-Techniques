@@ -62,7 +62,9 @@ Recommend a hybrid prompting framework for optimal retail chatbot performance.
 ## Prompt:
 The purpose of this experiment is to design and implement an AI-driven chatbot tailored for retail settings. The chatbot should be capable of managing customer queries, offering assistance, and enhancing the overall shopping experience. As part of the study, prompts will be crafted using different AI prompting strategies to support the experiment design, data gathering, analytical evaluation, and structured report development. The final output should be compiled into a well-formatted PDF report spanning 3–5 pages.
 ## Output:
-[prompt_4.pdf] [Download Report](./AI_Chatbot_Prompting_Experiment.pdf)
+
+[prompt_4.pdf](./prompt_4.pdf)
+
 ## Result:
 The experiment successfully demonstrated the effectiveness of prompt engineering in building an AI-powered chatbot for retail customer support. By applying diverse prompting strategies, the chatbot was able to:
 Zero-shot prompting showed the baseline ability of the model but often produced generic responses.
